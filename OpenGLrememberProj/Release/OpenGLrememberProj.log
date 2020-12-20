@@ -1,0 +1,11 @@
+﻿  Render.cpp
+C:\Users\Настя\Desktop\Материалы\5 семестр\Компьютерная графика\Лабы\Лаба 2-3\OpenGLrememberProj\Render.cpp(160,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Настя\Desktop\Материалы\5 семестр\Компьютерная графика\Лабы\Лаба 2-3\OpenGLrememberProj\Render.cpp(160,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Настя\Desktop\Материалы\5 семестр\Компьютерная графика\Лабы\Лаба 2-3\OpenGLrememberProj\Render.cpp(160,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Настя\Desktop\Материалы\5 семестр\Компьютерная графика\Лабы\Лаба 2-3\OpenGLrememberProj\Render.cpp(393,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  2 of 729 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OpenGLrememberProj.vcxproj -> C:\Users\Настя\Desktop\Материалы\5 семестр\Компьютерная графика\Лабы\Лаба 2-3\Release\OpenGLrememberProj.exe
